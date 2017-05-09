@@ -1,3 +1,5 @@
+[Présentation](index.md)|[Histoire](histoire.md)|[Familles](famille.md)|[Structure et fonctionnement](fonctionnement.md)|[Fabrication](fabrication.md)|[Prospective et innovation](innovation.md)
+
 <h1>Famille des microprocesseurs</h1>
 
 Les microprocesseurs sont habituellement regroupés en familles, en fonction du jeu d'instructions qu'ils exécutent. Si ce jeu d'instructions comprend souvent une base commune à toute la famille, les microprocesseurs les plus récents d'une famille peuvent présenter de nouvelles instructions. La rétrocompatibilité au sein d'une famille n'est donc pas toujours assurée. Par exemple un programme dit compatible x86 écrit pour un processeur Intel 8038613, qui permet la protection mémoire, pourrait ne pas fonctionner sur des processeurs antérieurs, mais fonctionne sur tous les processeurs plus récents (par exemple un Core Duo d'Intel ou un Athlon d'AMD).
