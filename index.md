@@ -4,6 +4,9 @@
 
 Un microprocesseur est un processeur dont tous les composants ont été suffisamment miniaturisés pour être regroupés dans un unique boitier. Fonctionnellement, le processeur est la partie d’un ordinateur qui exécute les instructions et traite les données des programmes.
 
+![microprosseur](https://cdn.pixabay.com/photo/2016/04/06/00/39/amd-1310766_960_720.jpg)
+
+
 <h2>Description</h2>
 Jusqu’au début des années 1970, les différents composants électroniques formant un processeur ne pouvaient pas tenir sur un seul circuit intégré, ce qui nécessitait d'interconnecter de nombreux composants dont plusieurs circuits intégrés. En 1971, la société américaine Intel réussit, pour la première fois, à placer tous les composants qui constituent un processeur sur un seul circuit intégré donnant ainsi naissance au microprocesseur2.
 
