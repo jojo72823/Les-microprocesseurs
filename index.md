@@ -30,4 +30,5 @@ Par exemple, un processeur A cadencé à 400 MHz peut exécuter certaines instru
 
 La combinaison des caractéristiques précédentes détermine la puissance du microprocesseur qui s’exprime en « millions d'instructions par seconde » (MIPS). Dans les années 1970, les microprocesseurs effectuaient moins d’un million d’instructions par seconde, mais en 2007, les processeurs pouvaient effectuer plus de 10 milliards d’instructions par seconde.
 
-Histoire[modifier | modifier le code]
+
+----------------------------------------------------------------------------------------------------------------------------------------Ce site est basé sur le site suivant : https://fr.wikipedia.org/wiki/Microprocesseur
