@@ -1,3 +1,5 @@
+[Présentation](index.md)|[Histoire](histoire.md)|[Familles](famille.md)|[Structure et fonctionnement](fonctionnement.md)|[Fabrication](fabrication.md)|[Prospective et innovation](innovation.md)
+
 <h1>Prospective et innovation</h1>
 
 Matériaux bidimensionnels : L'électronique bidimentionnelle18 est une piste d'innovation envisagée dès 201019. Elle s'appuie sur des microprocesseurs de taille nanométrique20, imprimé en seulement deux dimensions, à partir de semi-conducteur 2D d'un ou seulement quelques atomes d'épaisseur, afin d'encore miniaturiser l'électronique sous les limites permises par le silicium21.
