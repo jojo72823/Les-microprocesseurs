@@ -1,5 +1,4 @@
-[Présentation](index.md)|[Histoire](histoire.md)|[Familles](famille.md)|[Structure et fonctionnement](fonctionnement.md)|[Fabrication](fabrication.md)|[Prospective et innovation](innovation.md)
-
+[Présentation](index.md)|**[Histoire](histoire.md)**|[Familles](familles.md)|[Fonctionnement](fonctionnement.md)|[Fabrication](fabrication.md)|[Innovation](innovation.md)
 <h1>Histoire du microprocesseur</h1>
 
 En 1969, le microprocesseur a été inventé par un ingénieur et un physicien d'Intel : Marcian Hoff (surnommé Ted Hoff)4,5 et Federico Faggin. Marcian Hoff a formulé l'architecture du microprocesseur (une architecture de bloc et un jeu d'instructions). Le premier microprocesseur commercialisé, le 15 novembre 1971, est l'Intel 4004 4 bits, suivi par l'Intel 8008 à 8 bits et qui servi initialement à fabriquer des contrôleurs graphiques en mode texte. Jugé trop lent par le client qui en avait demandé la conception, il devint un processeur d'usage général.
