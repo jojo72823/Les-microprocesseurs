@@ -1,3 +1,5 @@
+[Présentation](index.md)|[Histoire](histoire.md)|[Familles](famille.md)|[Structure et fonctionnement](fonctionnement.md)|[Fabrication](fabrication.md)|[Prospective et innovation](innovation.md)
+
 <h1>Structure et fonctionnement</h1>
 
 L'unité centrale d'un microprocesseur comprend essentiellement :
